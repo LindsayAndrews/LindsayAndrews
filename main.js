@@ -1,7 +1,7 @@
 let recipe = {
     image : "flapjacks.jpg",
     title : "Homemade Flapjacks",
-    subtitle : "The best flapjacks recipe you'll ever eat",
+    subtitle : "The best flapjacks you'll ever eat",
     chef : "Chef C J",
     ingredients : [ "500ml flour", "5tbs sugar", "1/3 tsp salt", "1 1/2 tbsp melted butter",
 "2 eggs", "4tsp baking powder", "250ml milk"],
